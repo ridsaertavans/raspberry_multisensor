@@ -13,3 +13,4 @@ Vereiste packages voor op de raspberry
   sudo pip3 install Adafruit_DHT
 ```
 
+Code is getest op versie 1.4.0
